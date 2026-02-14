@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "木漏れ日の中で... (feat.GIO, Azumi from Wyolica)",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T14:59:44.279793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "木漏れ日の中で",
+      "artist": "Suara",
+      "has_synced": true,
+      "path": "select/01_木漏れ日の中で_Suara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "木漏れ日の中で...feat.GIO, Azumi from Wyolica",
+      "artist": "LGYankees presents DJ No.2",
+      "has_synced": false,
+      "path": "select/pl_01_木漏れ日の中で...feat.GIO,_Azumi_from_Wyolica_LGYankees_presents_DJ_No.2.txt"
+    }
+  ]
+}
